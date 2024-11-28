@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D3rujAAPcZVjKAO7cmZhiIm6p7y+Guo3kro6TlQKWH0=",
+  "Source": "interbanque",
+  "BasePath": "_content/interbanque",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
